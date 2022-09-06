@@ -1,2 +1,2 @@
 # RTR105
-Datornacību pamatkuts 
+Datormācību pamatkurss
