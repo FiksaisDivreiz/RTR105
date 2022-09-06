@@ -1,2 +1,2 @@
 # RTR105
-Datormācību pamatkurss
+Datormācību pamatkurss elektroniskā klade
