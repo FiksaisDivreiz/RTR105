@@ -47,4 +47,69 @@
    47  cd RTR105
    48  ls -lt
    49  history
-   50  history > history_20220913a.txt 
+   50* 
+   51  ls -lt
+   52  nano git-upload
+   53  ls
+   54  nano
+   55  ls -l /bin/nano
+   56  ls -l /bin/ls
+   57  nano git-upload
+   58  ls -lt
+   59  cat git-upload
+   60  git
+   61  git-upload
+   62  git
+   63  git-upload
+   64  pwd
+   65  /home/user/RTR105
+   66  /home/user/RTR105 git-upload
+   67  /home/user/RTR105/git-upload
+   68  ls -lt git-upload
+   69  chmod 764 git-upload
+   70  ls -lt git-upload
+   71  git-
+   72  git-echo $PATH
+   73  echo $PATH
+   74  git-upload
+   75  echo $0
+   76  ls
+   77  git-upload
+   78  pwd
+   79  ls -lt
+   80  pwd
+   81  ls -lt
+   82  ./git-upload 
+   83  nano git-upload
+   84  ./git-upload 
+   85  nano git-upload
+   86  history
+   87  cd
+   88  pwd
+   89  rm rf RTR105
+   90  rm -rf RTR105
+   91  LS -LT
+   92  ls -lt
+   93  pwd
+   94  ls -lt
+   95  rm -rf RTR105
+   96  ls -lt
+   97  history
+   98  history | grep clone
+   99  git clone https://github.com/FiksaisDivreiz/RTR105
+  100  ls -lt
+  101  pwd
+  102  cd RTR105
+  103  pwd
+  104  ls -lt
+  105  git
+  106  git-upload
+  107  echo $PATH
+  108  PATH=$PATH
+  109  echo $PATH
+  110  PATH=$PATH:./
+  111  echo $PATH
+  112  git-
+  113  history > history_20220913a.txt 
+  114  ls -lt
+  115  history > history_20220913a.txt 
