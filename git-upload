@@ -1,0 +1,6 @@
+#!/bin/bash
+git add . #komanda "uzmanāmo" mapju pievienošanai
+git config --global user.name FiksaisDivreiz
+git config --global user.email kristaps.locmelis1@gmail.com
+git commit -m "Class-04a"
+git push origin main
