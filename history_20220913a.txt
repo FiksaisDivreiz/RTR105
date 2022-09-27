@@ -1,115 +1,116 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  ls
-    4  whereis ls
-    5  pwd
+    3  pwd
+    4  git clone https://github/FiksaisDivreiz/RTR105
+    5  git clone https://github.com/FiksaisDivreiz/RTR105
     6  ls -lt
-    7  ls -lt /bin/ls
-    8  cd /bin
-    9  ls
-   10  ls -lt
-   11  echo $0
-   12  sh
-   13  echo $0
-   14  pwd
-   15  ls
-   16  ls -l
-   17  man cd
-   18  ls
-   19  whereis ls
-   20  pwd
-   21  ls -l /bin/ls
-   22  cd /bin
-   23  ls
-   24  ls -lt
-   25  ls
-   26  whereis ls
-   27  ls -l ls
-   28  cat ls
-   29  ls 
-   30  cd
-   31  pwd
-   32  ls
-   33  whereisls
-   34  whereis ls
-   35  /bin/ls
-   36  echo $PATH
-   37  LS
-   38  ls
-   39  ls -l /bin/ls
-   40  git clone https://github.com/FiksaisDivreiz/RTR105
-   41  PWD
-   42  pwd
-   43  ls -lt
-   44  cd RTR105
-   45  cd
-   46  cd .RTR105
-   47  cd RTR105
-   48  ls -lt
-   49  history
-   50* 
-   51  ls -lt
-   52  nano git-upload
-   53  ls
-   54  nano
-   55  ls -l /bin/nano
-   56  ls -l /bin/ls
-   57  nano git-upload
-   58  ls -lt
-   59  cat git-upload
-   60  git
-   61  git-upload
-   62  git
-   63  git-upload
-   64  pwd
-   65  /home/user/RTR105
-   66  /home/user/RTR105 git-upload
-   67  /home/user/RTR105/git-upload
-   68  ls -lt git-upload
-   69  chmod 764 git-upload
-   70  ls -lt git-upload
-   71  git-
-   72  git-echo $PATH
-   73  echo $PATH
-   74  git-upload
-   75  echo $0
-   76  ls
-   77  git-upload
-   78  pwd
+    7  ls
+    8  wheisls
+    9  wheis ls
+   10  whereis ls
+   11  ls -l /bin/ls
+   12  echo $PATH
+   13  ls
+   14  cat /bin/ls
+   15  psw
+   16  pwd
+   17  ls -lt
+   18  cd RTR105/
+   19  ls -lt
+   20  mkdir Class_06
+   21  ls -lt
+   22  pwd
+   23  cat special_variable.test.sh 
+   24  pwd
+   25  cd Class_06
+   26  nano firts.c
+   27  mv firts.c first.c
+   28  cat first.c 
+   29  gcc first.c
+   30  gcc --help
+   31  man gcc
+   32  ls -lt
+   33  cat first.c 
+   34  ls -lt
+   35  $PATH a.out 
+   36  pwd
+   37  /home/user/RTR105/Class_06/a.out
+   38  pwd
+   39  ~/RTR105/Class_06/a.out
+   40  ./a.out
+   41  ls -lt
+   42  ../Class_06/a.out 
+   43  cd ..
+   44  tree
+   45  pwd
+   46  tree
+   47  pwd
+   48  tree
+   49  cd Class_06/
+   50  ls -lt
+   51  nano first.c 
+   52  echo $?
+   53  gcc first.c 
+   54  echo $?
+   55  nano first.c 
+   56  gcc first.c 
+   57  ls -lt
+   58  ./a.out 
+   59  cat a.out 
+   60  cat first.c 
+   61  gcc first.c 
+   62  ls -lt
+   63  nano first.c 
+   64  ./a.out 
+   65  echo 4?
+   66  echo $?
+   67  ./a.out 
+   68  echo $?
+   69  nano first.c 
+   70  gcc first.c 
+   71  ./a.out 
+   72  echo $?
+   73  nano first.c 
+   74  gcc first.c 
+   75  ls -lt
+   76  gcc first.c 
+   77  ls -lt
+   78  gcc first.c -o first.out
    79  ls -lt
-   80  pwd
-   81  ls -lt
-   82  ./git-upload 
-   83  nano git-upload
-   84  ./git-upload 
-   85  nano git-upload
-   86  history
-   87  cd
-   88  pwd
-   89  rm rf RTR105
-   90  rm -rf RTR105
-   91  LS -LT
-   92  ls -lt
-   93  pwd
+   80  cd ..
+   81  pwd
+   82  ls -lt
+   83  pwd
+   84  ls -lt
+   85  ls -lta
+   86  -gitignore
+   87  nano .gitignore
+   88  ls -lt
+   89  ls -lta
+   90  cd Class_06/
+   91  ls -lt
+   92  gcc first.c -S -o first.out 
+   93  gcc first.c -S save temps -o first.out 
    94  ls -lt
-   95  rm -rf RTR105
-   96  ls -lt
-   97  history
-   98  history | grep clone
-   99  git clone https://github.com/FiksaisDivreiz/RTR105
-  100  ls -lt
-  101  pwd
-  102  cd RTR105
-  103  pwd
-  104  ls -lt
-  105  git
-  106  git-upload
-  107  echo $PATH
-  108  PATH=$PATH
-  109  echo $PATH
-  110  PATH=$PATH:./
-  111  echo $PATH
-  112  git-
-  113  history > history_20220913a.txt 
-  114  ls -lt
-  115  history > history_20220913a.txt 
+   95  gcc first.c -S -save temps -o first.out 
+   96  gcc first. -S -save temps -o first.out 
+   97  gcc first.c -S -save temps -o first.out 
+   98  gcc first.c -S -save-temps -o first.out 
+   99  ls -lt
+  100  cat first.i
+  101  cat first.c
+  102  gcc first.c -save-temps -o first.out 
+  103  ls -lt
+  104  cat first.s
+  105  cat first.o
+  106  ls -lt
+  107  cat ls -lt
+  108  ls -lt
+  109  cat firts.c
+  110  cat first.c
+  111  hexdump -C first.c
+  112  cd ..
+  113  pwd
+  114  ls -lta
+  115  ./git-upload 06
+  116  history > history_20220913a.txt 
