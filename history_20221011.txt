@@ -1,0 +1,63 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  https://github.com/FiksaisDivreiz/RTR105
+    4  git clone https://github.com/FiksaisDivreiz/RTR105
+    5  ls -lt
+    6  pwd
+    7  mkdir Class-09
+    8  mv Class-09 Class_9
+    9  cd Class_9
+   10  pwd
+   11  cd RTR105
+   12  cd
+   13  cd RTR105
+   14  mkdir Class_09
+   15  cd Class_9
+   16  cd Class_09
+   17  nano char data type tests.c
+   18* 
+   19  gcc char_data_type_tests.c  char_data_type_tests.out
+   20  gcc char_data_type_tests.c  -o char_data_type_tests.out
+   21  gcc char_data_type_tests.c 
+   22  nano char data type tests.c
+   23  nano char_data_type_tests.c 
+   24  gcc char_data_type_tests.c 
+   25  nano char_data_type_tests.c 
+   26  gcc char_data_type_tests.c -o char_data_type_tests.out
+   27  gcc char_data_type_tests.c
+   28  nano char_data_type_tests.c 
+   29  gcc char_data_type_tests.c -o char_data_type_tests.out
+   30  gcc char_data_type_tests.c
+   31  nano char_data_type_tests.c 
+   32  gcc char_data_type_tests.c
+   33  nano char_data_type_tests.c 
+   34  gcc char_data_type_tests.c
+   35  nano char_data_type_tests.c 
+   36  gcc char_data_type_tests.c
+   37  nano char_data_type_tests.c 
+   38  gcc char_data_type_tests.c
+   39  gcc char_data_type_tests.c -o char_data_type_tests.out
+   40  ./char_data_type_tests.out 
+   41  nano char_data_type_tests.c 
+   42  gcc char_data_type_tests.c -o char_data_type_tests.out
+   43  ./char_data_type_tests.out 
+   44  nano char_data_type_tests.c 
+   45  gcc char_data_type_tests.c -o char_data_type_tests.out
+   46  ./char_data_type_tests.out 
+   47  nano char_data_type_tests.c 
+   48  gcc char_data_type_tests.c -o char_data_type_tests.out
+   49  nano char_data_type_tests.c 
+   50  gcc char_data_type_tests.c -o char_data_type_tests.out
+   51  ./char_data_type_tests.out 
+   52  nano char_data_type_tests.c 
+   53  gcc char_data_type_tests.c -o char_data_type_tests.out
+   54  ./char_data_type_tests.out 
+   55  nano char_data_type_tests.c 
+   56  gcc char_data_type_tests.c -o char_data_type_tests.out
+   57  ./char_data_type_tests.out 
+   58  nano char_data_type_tests.c 
+   59  gcc char_data_type_tests.c -o char_data_type_tests.out
+   60  ./char_data_type_tests.out 
+   61  nano char_data_type_tests.c 
+   62  cd ..
+   63  history > history_20221010.txt
