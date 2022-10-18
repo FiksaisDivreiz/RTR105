@@ -1,0 +1,136 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/FiksaisDivreiz/RTR105
+    4  cd RTR105/
+    5  MKDIR cLASS_10
+    6  mkdir Class_10
+    7  cd Class_10/
+    8  nano operations_tests.c
+    9  gcc operations_tests.c 
+   10  nano operations_tests.c
+   11  gcc operations_tests.c 
+   12  nano operations_tests.c
+   13  gcc operations_tests.c 
+   14  nano operations_tests.c
+   15  gcc operations_tests.c 
+   16  nano operations_tests.c
+   17  gcc operations_tests.c 
+   18  nano operations_tests.c
+   19  gcc operations_tests.c 
+   20  nano operations_tests.c
+   21  gcc operations_tests.c 
+   22  nano operations_tests.c
+   23  gcc operations_tests.c 
+   24  nano operations_tests.c
+   25  gcc operations_tests.c 
+   26  nano operations_tests.c
+   27  gcc operations_tests.c 
+   28  nano operations_tests.c
+   29  gcc operations_tests.c 
+   30  nano operations_tests.c
+   31  gcc operations_tests.c 
+   32  nano operations_tests.c
+   33  gcc operations_tests.c 
+   34  nano operations_tests.c
+   35  gcc operations_tests.c 
+   36  nano operations_tests.c
+   37  gcc operations_tests.c 
+   38  nano operations_tests.c
+   39  gcc operations_tests.c 
+   40  ls -lt
+   41  ./a.out 
+   42  nano operations_tests.c
+   43  gcc operations_tests.c 
+   44  ./a.out 
+   45  nano operations_tests.c
+   46  gcc operations_tests.c 
+   47  nano operations_tests.c
+   48  gcc operations_tests.c 
+   49  nano operations_tests.c
+   50  gcc operations_tests.c 
+   51  nano operations_tests.c
+   52  gcc operations_tests.c 
+   53  ./a.out 
+   54  nano operations_tests.c
+   55  gcc operations_tests.c 
+   56  nano operations_tests.c
+   57  gcc operations_tests.c 
+   58  nano operations_tests.c
+   59  gcc operations_tests.c 
+   60  nano operations_tests.c
+   61  gcc operations_tests.c 
+   62  nano operations_tests.c
+   63  gcc operations_tests.c 
+   64  nano operations_tests.c
+   65  gcc operations_tests.c 
+   66  nano operations_tests.c
+   67  gcc operations_tests.c 
+   68  nano operations_tests.c
+   69  gcc operations_tests.c 
+   70  nano operations_tests.c
+   71  gcc operations_tests.c 
+   72  nano operations_tests.c
+   73  gcc operations_tests.c 
+   74  ./a.out 
+   75  nano operations_tests.c
+   76  gcc operations_tests.c 
+   77  nano operations_tests.c
+   78  gcc operations_tests.c 
+   79  ./a.out 
+   80  nano operations_tests.c
+   81  gcc operations_tests.c 
+   82  nano operations_tests.c
+   83  gcc operations_tests.c 
+   84  ./a.out 
+   85  nano operations_tests.c
+   86  gcc operations_tests.c 
+   87  ./a.out 
+   88  nano operations_tests.c
+   89  ./a.out 
+   90  nano operations_tests.c
+   91  gcc operations_tests.c 
+   92  ./a.out 
+   93  nano operations_tests.c
+   94  gcc operations_tests.c 
+   95  ./a.out 
+   96  cd ..
+   97  mkdir Class_11
+   98  nano if_tests.c
+   99  cd Class_11
+  100  mkdir Class_11
+  101  nano if_tests.c
+  102  gcc if_tests.c 
+  103  ./a.out 
+  104  nano if_tests.c
+  105  gcc if_tests.c 
+  106  nano if_tests.c
+  107  gcc if_tests.c 
+  108  nano if_tests.c
+  109  gcc if_tests.c 
+  110  nano if_tests.c
+  111  gcc if_tests.c 
+  112  nano if_tests.c
+  113  gcc if_tests.c 
+  114  nano if_tests.c
+  115  gcc if_tests.c 
+  116  nano if_tests.c
+  117  gcc if_tests.c 
+  118  nano if_tests.c
+  119  gcc if_tests.c 
+  120  nano if_tests.c
+  121  gcc if_tests.c 
+  122  nano if_tests.c
+  123  gcc if_tests.c 
+  124  nano if_tests.c
+  125  gcc if_tests.c 
+  126  nano if_tests.c
+  127  gcc if_tests.c 
+  128  nano if_tests.c
+  129  gcc if_tests.c 
+  130  nano if_tests.c
+  131  gcc if_tests.c 
+  132  ./a.out 
+  133  cd ..
+  134  ls -lt
+  135  ./git-upload 
+  136  history > history_20221018
