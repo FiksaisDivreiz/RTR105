@@ -1,0 +1,116 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/FiksaisDivreiz/RTR105
+    4  cd RTR105/
+    5  cd Class_13
+    6  mkdir Class_13
+    7  cd Class_13
+    8  user_function.c
+    9  nano user_function.c
+   10  gcc user_function.c 
+   11  nano user_function.c
+   12  gcc user_function.c 
+   13  nano user_function.c
+   14  gcc user_function.c 
+   15  nano user_function.c
+   16  gcc user_function.c 
+   17  ./a.out
+   18  gcc user_function.c 
+   19  nano user_function.c
+   20  gcc user_function.c 
+   21  nano user_function.c
+   22  gcc user_function.c 
+   23  nano user_function.c
+   24  gcc user_function.c 
+   25  nano user_function.c
+   26  gcc user_function.c 
+   27  nano user_function.c
+   28  gcc user_function.c 
+   29  nano user_function.c
+   30  gcc user_function.c 
+   31  nano user_function.c
+   32  gcc user_function.c 
+   33  nano user_function.c
+   34  gcc user_function.c 
+   35  nano user_function.c
+   36  gcc user_function.c 
+   37  nano user_function.c
+   38  gcc user_function.c 
+   39  nano user_function.c
+   40  gcc user_function.c 
+   41  nano user_function.c
+   42  gcc user_function.c 
+   43  nano user_function.c
+   44  gcc user_function.c 
+   45  nano user_function.c
+   46  gcc user_function.c 
+   47  nano user_function.c
+   48  gcc user_function.c 
+   49  nano user_function.c
+   50  gcc user_function.c 
+   51  nano user_function.c
+   52  gcc user_function.c 
+   53  nano main_with_arguments.c
+   54  gcc main_with_arguments.c 
+   55  ./a.out 
+   56  cp a.out aaa.out
+   57  ./aaa.out 
+   58  ./aaa.out 1
+   59  ./aaa.out echo $?
+   60  nano main_with_arguments.c
+   61  gcc main_with_arguments.c 
+   62  nano main_with_arguments.c
+   63  gcc main_with_arguments.c 
+   64  nano main_with_arguments.c
+   65  gcc main_with_arguments.c 
+   66  nano main_with_arguments.c
+   67  gcc main_with_arguments.c 
+   68  nano main_with_arguments.c
+   69  gcc main_with_arguments.c 
+   70  nano main_with_arguments.c
+   71  gcc main_with_arguments.c 
+   72  ls -lt
+   73  rm a
+   74  rm a.out 
+   75  rm aaa.out 
+   76  ls -lt
+   77  gcc main_with_arguments.c 
+   78  ls -lt
+   79  ./a.out 
+   80  ./a.out 78
+   81  696
+   82  ./a.out 78 968 45
+   83  ./a.out 78 968 45 74
+   84  nano main_with_arguments.c
+   85  nano foo.h
+   86  nano foo.c
+   87  ls
+   88  nano foo.c
+   89  nano main.c
+   90  ls -lt
+   91  nano main.c
+   92  nano foo.h
+   93  cat foo.c
+   94  cat foo.h
+   95  gcc main.c
+   96  ls -lt
+   97  gcc -Wall -c foo.c
+   98  ls -lt
+   99  $ gcc -Wall -c main.c
+  100  nano main.c
+  101  ls -lt
+  102  gcc -Wall -c main.c
+  103  ls -lt
+  104  gcc -o test_main_foo msin.o foo.o
+  105  gcc -o testprogram foo.o main.o
+  106  gcc -o test_main_foo msin.o foo.o
+  107  gcc -o test_main_foo main.o foo.o
+  108  ls -lt
+  109  cat foo.c
+  110  nano foo.c
+  111  ls -lt
+  112  git upload 
+  113  cd ..
+  114  ./git upload 
+  115  ./git-upload 
+  116  history > history_20221101
