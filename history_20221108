@@ -1,0 +1,74 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/FiksaisDivreiz/RTR105
+    4  ls -lt
+    5  cd RTR105
+    6  mkdir Class_15
+    7  cd Class_15
+    8  ls -lt
+    9  nano pointers.c
+   10  gcc pointers.c 
+   11  nano pointers.c
+   12  gcc pointers.c 
+   13  nano pointers.c
+   14  gcc pointers.c 
+   15  ls -lt
+   16  ./a.out 
+   17  cat pointers.c 
+   18  nano pointers.c
+   19  gcc pointers.c 
+   20  ./a.out 
+   21  nano pointers.c
+   22  gcc pointers.c 
+   23  ./a.out 
+   24  gcc -Wall pointers.c 
+   25  nano pointers.c
+   26  gcc -Wall pointers.c 
+   27  nano pointers.c
+   28  gcc -Wall pointers.c 
+   29  nano pointers.c
+   30  gcc -Wall pointers.c 
+   31  nano pointers.c
+   32  gcc -Wall pointers.c 
+   33  ./a.out 
+   34  nano pointers.c
+   35  gcc -Wall pointers.c 
+   36  nano pointers.c
+   37  gcc -Wall pointers.c 
+   38  nano pointers.c
+   39  gcc -Wall pointers.c 
+   40  nano pointers.c
+   41  gcc -Wall pointers.c 
+   42  ./a.out 
+   43  nano pointers.c
+   44  nano arrays.c
+   45  gcc arrays.c 
+   46  nano arrays.c
+   47  gcc arrays.c 
+   48  nano arrays.c
+   49  fg
+   50  nano arrays.c
+   51  fg
+   52  gcc arrays.c 
+   53  nano arrays.c
+   54  gcc arrays.c 
+   55  ./a.out 
+   56  nano arrays.c
+   57  gcc arrays.c 
+   58  nano arrays.c
+   59  gcc arrays.c 
+   60  nano arrays.c
+   61  gcc arrays.c 
+   62  nano arrays.c
+   63  gcc arrays.c 
+   64  ./a.out 
+   65  nano arrays.c
+   66  gcc arrays.c 
+   67  nano arrays.c
+   68  gcc arrays.c 
+   69  ./a.out 
+   70  nano arrays.c
+   71  gcc arrays.c 
+   72  git upload 
+   73  cd ..
+   74  history > history_20221108
