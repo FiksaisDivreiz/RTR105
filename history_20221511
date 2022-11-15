@@ -1,0 +1,86 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone 
+    4  git clone https://github.com/FiksaisDivreiz/RTR105
+    5  ls -lt
+    6  cd RTR105
+    7  mkdir Class_16
+    8  cd Class_16
+    9  nano strings.c
+   10  gcc strings.c 
+   11  nano strings.c
+   12  gcc strings.c 
+   13  nano strings.c
+   14  gcc strings.c 
+   15  nano strings.c
+   16  nano strings_fgets.c
+   17  gcc strings_fgets.c 
+   18  nano strings_fgets.c
+   19  gcc strings_fgets.c 
+   20  nano strings_fgets.c
+   21  gcc strings_fgets.c 
+   22  nano strings_fgets.c
+   23  gcc strings_fgets.c 
+   24  nano strings_fgets.c
+   25  gcc strings_fgets.c 
+   26  nano strings_fgets.c
+   27  gcc strings_fgets.c 
+   28  ./a.out 
+   29  nano strings_fgets.c
+   30  nano teikums.c
+   31  wget https://raw.githubusercontent.com/tatusmatrix/RTR105_2022_V01/main/Class_16/teikums.c
+   32  nano strings_fgets.c 
+   33  nano teikums.c
+   34  ls -lt
+   35  mv teikums.c.1 teikums_Valtera_piemeers.c
+   36  ls -lt
+   37  nano teikums_Valtera_piemeers.c 
+   38  gcc teikums_Valtera_piemeers.c 
+   39  ./a.out 
+   40  cd ..
+   41  mkdir Class_17
+   42  cd Class_17
+   43  nano files.c
+   44  gcc files.c 
+   45  nano files.c
+   46  gcc files.c 
+   47  ./a.out 
+   48  echo $?
+   49  ls -lt
+   50  gcc -Wall files.c 
+   51  ./a.out 
+   52  ls -lt
+   53  mv files.c files_fprintf.c 
+   54  cp files_fprintf.c files_fprintf.c 
+   55  ls -lt
+   56  nano files_fprintf.c 
+   57  ls -lt
+   58  cp files_fprintf.c files_fscanf.c 
+   59  nano files_fscanf.c 
+   60  gcc files_fscanf.c 
+   61  nano files_fscanf.c 
+   62  gcc files_fscanf.c 
+   63  nano files_fscanf.c 
+   64  gcc files_fscanf.c 
+   65  ./a.out 
+   66  ls -lt
+   67* cp files_fprintf..c
+   68  nano files_print_number_text.c 
+   69  gcc files_print_number_text.c 
+   70  nano files_print_number_text.c 
+   71  gcc files_print_number_text.c 
+   72  nano files_print_number_text.c 
+   73  gcc files_print_number_text.c 
+   74  ls -lt
+   75  nano files_print_number_text.c 
+   76  cp files_print_number_text.c files_print_number_bin.c 
+   77  nano files_print_number_bin.c 
+   78  cd ..
+   79  git-upload
+   80  git-upload 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
+   81  git-upload
+   82  cd
+   83  git-upload
+   84  cd RTR105
+   85  ./git-upload
+   86  history > history_20221511
