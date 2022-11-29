@@ -1,0 +1,71 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/FiksaisDivreiz/RTR105
+    4  cd RTR105
+    5  mkdir Class_19
+    6  Class_19
+    7  cd Class_19
+    8  gnuplot
+    9  nano kristaps18lab1.c
+   10  GCC kristaps18lab1.c
+   11  gcc kristaps18lab1.c
+   12  nano kristaps18lab1.c
+   13  gcc kristaps18lab1.c
+   14  nano kristaps18lab1.c
+   15  gcc kristaps18lab1.c
+   16  nano kristaps18lab1.c
+   17  gcc kristaps18lab1.c
+   18  nano kristaps18lab1.c
+   19  gcc kristaps18lab1.c
+   20  nano kristaps18lab1.c
+   21  gcc kristaps18lab1.c
+   22  gcc kristaps18lab1.c -o teiloa1.c
+   23  ls -lt
+   24  gcc mv kristaps18lab1.c -o teiloa1.c
+   25  gcc kristaps18lab1.c -o teiloa1.c
+   26  ls
+   27  ls -lt
+   28  ./a
+   29  gcc kristaps18lab1.c
+   30  nano 2teilora.c
+   31  GCC 2teilora.c 
+   32  gcc 2teilora.c 
+   33  GCC 2teilora.c 
+   34  nano 2teilora.c
+   35  gcc 2teilora.c 
+   36  ls -lt
+   37  gcc 2teilora.c -lm
+   38  gcc kristaps18lab1.c -lm
+   39  ./a.out 
+   40  gcc 2teilora.c -lm
+   41  ./a.out 
+   42  nano 3teilora.c
+   43  gcc 3teilora.c -lm
+   44  ./a.out 
+   45  nano 4teilora.c
+   46  gcc 4teilora.c -lm
+   47  ./a.out 
+   48  nano 5teilora.c
+   49  gcc 5teilora.c -lm
+   50  ./a.out 
+   51  nano 6teilora.c
+   52  gcc 6teilora.c -lm
+   53  ./a.out 
+   54  nano 1dihotomijas.c
+   55  gcc 1dihotomijas.c -lm
+   56  nano 1dihotomijas.c
+   57  gcc 1dihotomijas.c -lm
+   58  nano 1dihotomijas.c
+   59  gcc 1dihotomijas.c -lm
+   60  nano 1dihotomijas.c
+   61  gcc 1dihotomijas.c -lm
+   62  ./a.out 
+   63  nano 2dihotomijas.c
+   64  gcc 2dihotomijas.c -lm
+   65  nano 2dihotomijas.c
+   66  gcc 2dihotomijas.c -lm
+   67  nano 2dihotomijas.c
+   68  gcc 2dihotomijas.c -lm
+   69  ./a.out 
+   70  cd ..
+   71  history > history_20221129
